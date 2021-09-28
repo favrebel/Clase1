@@ -1,0 +1,13 @@
+body {
+    background-image: url(img/fondo-invierno-hojas-pinceles-color-pastel_220290-42.jpg);
+    background-size: cover;
+    color: chocolate;
+}
+
+    h1 {
+        color: darkgray;
+    }
+
+titulo {
+    width: 600px;
+}
